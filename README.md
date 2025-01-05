@@ -53,7 +53,7 @@ The following libraries are required for this project:
 ### 4. Evaluation Metrics
 - Accuracy and loss curves
 - Confusion matrix for multi-class classification performance
-- Principal Component Analysis (PCA) for feature visualization
+
 
 ---
 
@@ -93,7 +93,7 @@ The following libraries are required for this project:
 
 ```bash
 git clone https://github.com/UritiSrikanth/Blood-Cells-Cancer-detection-using-CNN.git
-
+```
 ---
 
 ## Install Dependencies
